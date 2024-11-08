@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://22crown.ulrich-bauer.org/sitemap.xml
